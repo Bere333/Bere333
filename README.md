@@ -1,3 +1,8 @@
+<p align="center">
+  <a href="" target="_blank" rel="noreferrer"><img src="./Berenice Ramos.png"></a>
+</p>
+
+
 ### Hi there 👋
 
 <!--
