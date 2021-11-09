@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="" target="_blank" rel="noreferrer"><img src="./Berenice_Ramos.png"></a>
+  <a href="" target="_blank" rel="noreferrer"><img src="./Berenice_Ramos .png"></a>
 </p>
 
 
