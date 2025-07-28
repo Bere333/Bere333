@@ -3,7 +3,6 @@
 </p>
 
 
-### Hola 👋
 
 <h1 align="center">Hello 👋, I'm Berenice Ramos</h1>
 <h3 align="center">A passionate data scientist</h3>
